@@ -1,0 +1,16 @@
+23:48:34.649 [main] DEBUG org.example.CustomLogger - This is a debug message
+23:48:34.650 [main] INFO  org.example.CustomLogger - This is an info message
+23:48:34.650 [main] WARN  org.example.CustomLogger - This is a warning message
+23:48:34.650 [main] ERROR org.example.CustomLogger - This is an error message
+23:48:58.245 [main] DEBUG org.example.CustomLogger - This is a debug message
+23:48:58.247 [main] INFO  org.example.CustomLogger - This is an info message
+23:48:58.247 [main] WARN  org.example.CustomLogger - This is a warning message
+23:48:58.247 [main] ERROR org.example.CustomLogger - This is an error message
+23:50:42.605 [main] DEBUG CustomLogger - This is a debug message
+23:50:42.607 [main] INFO  CustomLogger - This is an info message
+23:50:42.617 [main] WARN  CustomLogger - This is a warning message
+23:50:42.617 [main] ERROR CustomLogger - This is an error message
+23:59:52.727 [main] DEBUG CustomLogger - This is a debug message
+23:59:52.728 [main] INFO  CustomLogger - This is an info message
+23:59:52.729 [main] WARN  CustomLogger - This is a warning message
+23:59:52.729 [main] ERROR CustomLogger - This is an error message
